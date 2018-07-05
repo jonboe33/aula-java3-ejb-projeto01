@@ -36,3 +36,5 @@ hs_err_pid*
 /Bestcard-web/dist
 
 
+/Bestcard/Interdiciplinar-ejb/build/
+/Bestcard/Interdiciplinar-ejb/nbproject/private/
